@@ -30,9 +30,9 @@ body {
         padding: 15px;
         box-shadow: 4px 2px black;
         cursor: pointer;
+        transition: background-color 0.25s;
 }
 
 .button:hover {
         background-color: lightseagreen;
-        transition: background-color 0.20s;
 }
